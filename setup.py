@@ -11,9 +11,6 @@ build_exe_options = {
     "include_msvcr": False,
 }
 
-base = None
-if sys.platform == "win32":
-    base = "Win32GUI"
 
 setup(
     name="your_app_name",
