@@ -1,4 +1,4 @@
-通过替换BAR游戏的地图下载器pr-downloader，通过你指定的http代理加速下载游戏中的地图。
+通过替换BAR游戏的地图下载器pr-downloader，使用你指定的http代理加速下载游戏中的地图。
 
 # 安装
 1. 找到`BAR启动器/bin/pr-downloader`，把它重命名为`BAR启动器/bin/pr-downloader-old`。![4](https://github.com/udisk81/bar-map-agent/assets/172959786/ff45876f-b238-4344-9474-8720e0bdf116)
